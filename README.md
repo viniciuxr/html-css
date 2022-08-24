@@ -1,2 +1,2 @@
 # html-css
- Local destinado à meus estudos de HTML & CSS
+ Local destinado à meus estudos de html & css
